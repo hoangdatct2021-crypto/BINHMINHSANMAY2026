@@ -1,0 +1,6 @@
+{
+  "name": "Bình Minh Săn Mây Bảo Lộc",
+  "description": "Landing page chuyên nghiệp cho homestay nghỉ dưỡng cao cấp tại Bảo Lộc. Trải nghiệm săn mây, BBQ núi rừng và view thành phố tuyệt đẹp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
